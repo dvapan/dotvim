@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/dvapan/projects/childs/sdfaces_orig/sdfaces_test'
+let g:netrw_dirhist_2='/home/dvapan/projects/childs/fsdk'
+let g:netrw_dirhist_1='/home/dvapan/projects/fsdk_installer/linux/data'
+let g:netrw_dirhist_0='/home/dvapan/.vim'
+let g:netrw_dirhist_9='/home/dvapan/projects/raylib/examples/shaders/resources'
+let g:netrw_dirhist_8='/home/dvapan/projects/raylib/examples/shaders'
+let g:netrw_dirhist_7='/home/dvapan/projects/raylib/examples/shaders/resources/shaders/glsl330'
+let g:netrw_dirhist_6='/home/dvapan/projects/raylib/examples/shaders/resources/shaders'
+let g:netrw_dirhist_5='/home/dvapan/projects/raylib/examples/shaders/resources'
+let g:netrw_dirhist_4='/home/dvapan/projects/raylib/examples/shaders'

@@ -1,0 +1,21 @@
+set keymap=russian-jcukenwin
+set iminsert=0
+set wildmenu
+set wildmode=full
+set history=10000
+set hlsearch
+
+autocmd BufRead *.md syn match markdownError "\w\@<=\w\@="
+
+
+set nowrap
+syntax on
+
+let b:fortran_fixed_source = 0
+
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+
+set path+=src
