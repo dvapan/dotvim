@@ -13,7 +13,7 @@ set splitright
 set tw=79
 
 autocmd BufRead *.md syn match markdownError "\w\@<=\w\@="
-
+nnoremap <silent> <C-l> :<C-u>nohlsearch<CR><C-l>
 
 set nowrap
 syntax on
@@ -26,3 +26,4 @@ set softtabstop=4
 set expandtab
 
 set path+=src
+
